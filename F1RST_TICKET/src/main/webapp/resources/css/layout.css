@@ -1,0 +1,87 @@
+@charset "UTF-8";
+
+/* header.jsp css */
+
+header{
+	margin: 0 auto;
+	min-width : 1000px;
+/* 	padding: 0px 50px 0px 50px; */
+	
+}
+
+label:hover {
+	
+	text-decoration: none;
+	
+}
+
+nav li a {
+	color : black;
+}
+
+nav li a:hover{
+	border-bottom: 2px solid #8EC0E4;
+/* 	border-bottom: 2px solid black; */
+	color : black !important;
+	background-color: #fff !important;
+}
+
+/* .container{
+	
+	padding-top: 50px;
+	padding-bottom: 50px;
+	
+} */
+
+.topmenu{
+	background-color : #6AAFE6;
+	text-align: right;
+	height : 30px;
+	
+}
+
+.topmenu ul li{
+	padding : 0px 10px 0px 10px;
+	vertical-align: middle;
+}
+
+.topmenu a{
+	text-decoration: none;
+	color:#fff;
+}
+
+.topmenu a:hover{
+	text-decoration: none;
+	color: black;
+} 
+
+#midmenu{
+	
+	font-size: 16px;
+}
+
+/* header_login.jsp CSS */
+
+#loginJoin ul li a{
+	
+	text-decoration: none; 
+	color: black;
+	
+}
+
+#loginJoin ul li a:hover{
+	
+	border-bottom: 2px solid #8EC0E4;
+	width: auto;
+	
+}
+
+#lostId ul li {
+	font-size: 28px;
+	text-decoration: none ;
+	color : black; 
+}
+
+
+body { padding-bottom: 70px; }
+

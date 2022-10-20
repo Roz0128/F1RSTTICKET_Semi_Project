@@ -1,0 +1,93 @@
+@charset "UTF-8";
+
+/*----- 드롭다운 메뉴 -----*/
+#dropdownMenu1 {
+	color:#6AAFE6;
+	background-color: transparent;
+	border:0;
+	outline: 0;
+	display: inline-block; 
+	font-size: 30px;
+	font-weight: bold;
+	padding: 9px 9px 20px 17px;
+  
+}
+ 
+#menuMu {
+	font-size: 30px;
+	padding-right: 30px;
+	padding-top: 30px;
+	font-weight: bold;
+	display: inline-block;
+}
+ 
+.dropdown-menu{
+	border-color: #6AAFE6;
+	box-shadow: none;
+}
+
+.img-responsive{
+	max-width: 100%;
+	height: auto; 
+	display: block;
+}
+
+
+/* .dropdown:hover .dropdown-menu { */
+/*     display: block; */
+/*     margin-top: 0; */
+/* } */
+
+
+/* ----------------------- */
+
+
+/*----- 뮤지컬 포스터 목록 -----*/
+.container a {
+	color: black;
+	text-decoration: none;
+}
+
+#imgWrapper {
+	height: 210px;
+	text-align : center;
+}
+
+ #textWrapper { 
+ 	width: 150px; 
+ 	margin: 0 auto;
+}
+
+.title {
+	font-size: 10px;
+	text-align : center;
+	margin-bottom: 3px;
+}
+
+.info {
+	color: gray;
+	font-size: 9px;
+	text-align : center;
+	margin: 0;
+}
+
+.col-md-3 {
+	height: 310px;	
+}
+
+.col-md-3 img {
+	width: 150px; 
+ 	height: 200px;
+	transition: all 0.3s linear; 
+} 
+
+.col-md-3:hover img { 
+	transform: scale(1.05); 
+}
+
+.container {
+    padding-left: 100px;
+    padding-right: 150px;
+}
+/* ----------------------- */
+

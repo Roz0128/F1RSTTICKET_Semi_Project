@@ -1,0 +1,72 @@
+@charset "UTF-8";
+
+/* #mypageMenu li{
+	color: black;
+} */
+#mypageInfo div{
+	vertical-align: middle;
+	padding: 20px;
+}
+
+#mypageMenu ul li a {
+	text-decoration: none;
+	color : #fff;
+	font-size: 16px;
+}
+
+#mypageMenu ul li a:hover{
+	
+border-bottom: 2px solid #D4DFE6;
+
+}
+
+#mypageMenu{
+	
+	background-color: #8EC0E4;
+	padding-top: 10%;
+	padding-bottom: 30%;
+}
+
+#mypageMenu ul li{
+	padding : 0px 10px 0px 10px;
+	vertical-align: middle;
+}
+
+.table thead{
+	background-color: #CADBE9;
+}
+
+/* adminpage.css */
+
+#adminpageInfo div{
+	vertical-align: middle;
+	padding: 20px;
+}
+
+#adminpageMenu ul li a {
+	text-decoration: none;
+	color : #fff;
+	font-size: 16px;
+}
+
+#adminpageMenu ul li a:hover{
+	
+border-bottom: 2px solid #D4DFE6;
+
+}
+
+#adminpageMenu{
+	
+	background-color: #8EC0E4;
+	padding-top: 10%;
+	padding-bottom: 50%;
+}
+
+#adminpageMenu ul li{
+	padding : 0px 10px 0px 10px;
+	vertical-align: middle;
+}
+
+.table thead{
+	background-color: #CADBE9;
+}

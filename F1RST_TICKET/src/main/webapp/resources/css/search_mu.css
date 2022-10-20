@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+img {
+	width: 120px;
+    height: 160px;
+}
+
+.contents {
+    text-align: left;
+}
+
+.contents p {
+	padding-top: 70px;
+	color: black;
+}
+
+#text {
+	font-size: large;
+    font-weight: bold;
+}
+
+#key {
+	font-size: large;
+    font-weight: bold;
+    color: orange;
+}
